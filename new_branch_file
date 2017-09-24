@@ -1,0 +1,8 @@
+# Git Lesson Challenge
+
+Step 1. Create (checkout) a new branch using the terminal (git checkout -b new_branch)
+Step 2. Make a new file in the 'new_branch' project
+step 3. commit these changes
+step 4. push the changes
+step 5. make a pull request
+step 6. merge?
